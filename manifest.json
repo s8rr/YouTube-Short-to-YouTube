@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "URL Code Extractor",
+  "name": "YouTube Short to YouTube",
   "version": "1.0",
   "description": "Extracts code from the URL and opens a new tab with modified URL.",
   "permissions": ["tabs", "activeTab"],
