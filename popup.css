@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 200px;
+  height: 250px;
+  padding: 10px;
+  background: linear-gradient(135deg, #2980b9, #2c3e50);
+  border-radius: 10px; /* Adding border-radius to make it rounder */
+  overflow: hidden; /* Ensuring contents do not overflow rounded corners */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon {
+  width: 50px; /* Adjust icon size as needed */
+  height: 50px; /* Adjust icon size as needed */
+  margin-bottom: 20px; /* Spacing between icon and description */
+}
+
+.description {
+  color: #ffffff;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.made-by {
+  color: #ffffff;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.social-links {
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.social-links a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+ 
+button {
+  width: calc(100% - 20px); /* Adjusting for padding */
+  padding: 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+/* // Made By Sabbir 

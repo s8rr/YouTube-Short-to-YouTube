@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "URL Code Extractor",
+  "version": "1.0",
+  "description": "Extracts code from the URL and opens a new tab with modified URL.",
+  "permissions": ["tabs", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon16.png",
+      "128": "icon16.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon16.png",
+    "128": "icon16.png"
+  }
+}
