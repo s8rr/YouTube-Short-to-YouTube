@@ -17,7 +17,7 @@ This browser extension enhances your YouTube Short viewing experience by opening
 ## How to Use
 
    1. Click on the extension icon in your browser toolbar.
-   2. Click the "Extract Code" button.
+   2. Click the "Go To YouTube" button.
    3. The extension will open the YouTube Short in the legacy video player in a new tab.
 
 ## Credits
