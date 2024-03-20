@@ -3,9 +3,9 @@
 This browser extension enhances your YouTube Short viewing experience by opening them in the legacy video player on YouTube.
 ## Features
 
-   1. Allows you to view YouTube Shorts in the traditional video player.
-   2. Simple and easy-to-use interface.
-   3. Lightweight and efficient.
+   - Allows you to view YouTube Shorts in the traditional video player.
+   - Simple and easy-to-use interface.
+   - Lightweight and efficient.
 
 ## Installation
 
